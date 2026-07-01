@@ -60,7 +60,7 @@ issues to achieve a stable deployment.
 | Containers & Orchestration | Docker, Docker Compose, Kubernetes |
 | Monitoring | Prometheus, Grafana |
 | ML / DL | Scikit-learn, PyTorch, YOLOv8, OpenCV |
-| Cloud & Infra | AWS, GCP, Linux, Bash |
+| Cloud & Infra | AWS, Linux, Bash |
 | Languages | Python, SQL |
 
 ---
