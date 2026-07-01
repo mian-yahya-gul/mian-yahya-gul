@@ -69,6 +69,7 @@ issues to achieve a stable deployment.
 
 **BS Software Engineering** : Virtual University of Pakistan
 GPA : 3.49 / 4.00
+
 Thesis : Automated Traffic Sign Detection using YOLOv8
 
 ---
