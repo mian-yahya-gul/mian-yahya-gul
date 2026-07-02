@@ -76,7 +76,7 @@ Thesis : Automated Traffic Sign Detection using YOLOv8
 
 ##   Certifications
 
--  Entrepreneurship Development Program LUMS Lahore
+**Entrepreneurship Development Program LUMS Lahore
 
 ---
 
