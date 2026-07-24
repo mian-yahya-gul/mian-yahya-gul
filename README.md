@@ -1,6 +1,6 @@
 # Hi, I'm Mian Yahya
 
-**MLOps Engineer** based in Islamabad, Pakistan
+**AI/MLOps Engineer** based in Islamabad, Pakistan
 
 I build the infrastructure that takes machine learning models from
 experimentation into production covering model serving, CI/CD
