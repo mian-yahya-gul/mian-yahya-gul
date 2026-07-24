@@ -19,7 +19,7 @@ A Retrieval-\ Augmented Generation assistant that answers questions about upload
 
 `Python` `LangChain` `LangGraph` `OpenAI` `ChromaDB` `pytest`
 
-[![Repo](https://github.com/mian-yahya-gul/research-paper-rag)
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?logo=github)](https://github.com/mian-yahya-gul/research-paper-rag)
 
 ---
 
