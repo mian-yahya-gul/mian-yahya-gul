@@ -14,6 +14,15 @@ automation, containerization, and observability.
 
 ##  Projects
 
+###  Research Paper RAG Assistant
+A Retrieval-\ Augmented Generation assistant that answers questions about uploaded research papers using only their content, with every claim backed by an inline page-level citation. LangGraph orchestrated retrieve → generate pipeline, persistent Chroma vector store with deduplicated ingestion, and a Streamlit chat interface with multi turn memory.
+
+`Python` `LangChain` `LangGraph` `OpenAI` `ChromaDB` `pytest`
+
+[![Repo](https://github.com/mian-yahya-gul/research-paper-rag)
+
+---
+
 ###  Customer Churn Prediction  MLOps Pipeline
 End to end ML pipeline on the real IBM Telco Customer Churn dataset
 (7,043 records). MLflow experiment tracking across 3 hyperparameter
