@@ -76,7 +76,7 @@ issues to achieve a stable deployment.
 | MLOps | MLflow, GitHub Actions, CI/CD, Model Versioning |
 | Serving & APIs | FastAPI, Streamlit, Pydantic, REST API Design |
 | Containers & Orchestration | Docker, Docker Compose, Kubernetes |
-| Monitoring & Observability | Prometheus, Grafana |
+| Monitoring & Observability | Prometheus, Grafana | LangSmith
 | Machine Learning & Deep Learning | Scikit-learn, PyTorch, YOLOv8, OpenCV |
 | Databases & Vector Stores | SQLite, ChromaDB, FAISS |
 | Cloud & Infrastructure | AWS, Linux, Bash |
