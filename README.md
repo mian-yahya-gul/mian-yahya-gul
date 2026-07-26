@@ -13,7 +13,7 @@ I build production ready AI applications powered by LLMs, RAG, and multi agent s
 ##  Projects
 
 ###  Research Paper RAG Assistant
-A Retrieval Augmented Generation assistant that answers questions about uploaded research papers using only their content, with every claim backed by an inline page-level citation. LangGraph orchestrated retrieve → generate pipeline, persistent Chroma vector store with deduplicated ingestion, and a Streamlit chat interface with multi turn memory.
+A Retrieval Augmented Generation assistant that answers questions about uploaded research papers using only their content, with every claim backed by an inline page level citation. LangGraph orchestrated retrieve → generate pipeline, persistent Chroma vector store with deduplicated ingestion, and a Streamlit chat interface with multi turn memory.
 
 `Python` `LangChain` `LangGraph` `OpenAI` `ChromaDB` `pytest`
 
