@@ -23,6 +23,16 @@ A Retrieval Augmented Generation assistant that answers questions about uploaded
 
 ---
 
+##  Projects
+
+###  Multi Agent AI Revenue Cycle Operations Platform
+A multi agent AI Operations Platform for healthcare Revenue Cycle Management (RCM). Every insurance claim becomes a stateful workflow coordinated by LangGraph across a team of specialist agents that genuinely collaborate: They challenge each other's output, send work back for revision, gate submission behind a compliance review, and pause for a human when documentation runs out, all through shared state and conditional routing, with RAG grounded payer policy lookups, deterministic tool calling, structured outputs, and an event driven data layer underneath.
+
+`Python` `LangChain` `LangGraph` `RAG` `OpenAI` `FAISS` `SQLite` `Streamlit`
+
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?logo=github)](https://github.com/mian-yahya-gul/Multi-Agent-AI-Revenue-Cycle-Operations-Platform)
+
+
 ###  Customer Churn Prediction  MLOps Pipeline
 End to end ML pipeline on the real IBM Telco Customer Churn dataset
 (7,043 records). MLflow experiment tracking across 3 hyperparameter
