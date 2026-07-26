@@ -1,10 +1,8 @@
 # Hi, I'm Mian Yahya
 
-**AI/MLOps Engineer** based in Islamabad, Pakistan
+**AI Engineer specializing in Agentic AI, RAG and MLOps** based in Islamabad, Pakistan
 
-I build the infrastructure that takes machine learning models from
-experimentation into production covering model serving, CI/CD
-automation, containerization, and observability.
+I build production ready AI applications powered by LLMs, RAG, and multi agent systems, while applying MLOps best practices for deployment, monitoring, and scalability. My work focuses on transforming AI prototypes into reliable, enterprise grade software.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mian--yahya--gul-0077B5?logo=linkedin)](https://www.linkedin.com/in/mian-yahya-gul/)
 [![GitHub](https://img.shields.io/badge/GitHub-mian--yahya--gul-181717?logo=github)](https://github.com/mian-yahya-gul)
