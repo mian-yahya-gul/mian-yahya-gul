@@ -72,12 +72,14 @@ issues to achieve a stable deployment.
 
 | Category | Tools |
 |---|---|
-| MLOps & ML Tools | MLflow, GitHub Actions, CI/CD, Model Versioning |
-| Serving & APIs | FastAPI, Pydantic, REST API Design |
+| AI Engineering | LangChain, LangGraph, OpenAI API, RAG, Prompt Engineering, AI Agents |
+| MLOps | MLflow, GitHub Actions, CI/CD, Model Versioning |
+| Serving & APIs | FastAPI, Streamlit, Pydantic, REST API Design |
 | Containers & Orchestration | Docker, Docker Compose, Kubernetes |
-| Monitoring | Prometheus, Grafana |
-| ML / DL | Scikit-learn, PyTorch, YOLOv8, OpenCV |
-| Cloud & Infra | AWS, Linux, Bash |
+| Monitoring & Observability | Prometheus, Grafana |
+| Machine Learning & Deep Learning | Scikit-learn, PyTorch, YOLOv8, OpenCV |
+| Databases & Vector Stores | SQLite, ChromaDB, FAISS |
+| Cloud & Infrastructure | AWS, Linux, Bash |
 | Languages | Python, SQL |
 
 ---
