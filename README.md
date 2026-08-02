@@ -1,6 +1,6 @@
 # Hi, I'm Mian Yahya
 
-**AI Engineer specializing in Agentic AI, RAG and MLOps** based in Islamabad, Pakistan
+**AI/Ml/Mlops Engineer specializing in Agentic AI, RAG and MLOps** based in Islamabad, Pakistan
 
 I build production ready AI applications powered by LLMs, RAG, and multi agent systems, while applying MLOps best practices for deployment, monitoring, and scalability. My work focuses on transforming AI prototypes into reliable, enterprise grade software.
 
@@ -107,7 +107,7 @@ connecting engineers in Peshawar with the global cloud native ecosystem.
 
 ##  Let's connect
 
-I'm actively looking for **MLOps / ML Engineering roles** in Pakistan
+I'm actively looking for **AI/ MLOps / ML Engineering roles** in Pakistan
 and internationally. Feel free to reach out.
 
 📧 kakakhel176@gmail.com
